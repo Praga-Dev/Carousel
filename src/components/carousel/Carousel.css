@@ -1,0 +1,25 @@
+.prev-image-container{
+    height:15vw;
+    width: 100%;
+    text-align: center;
+}
+
+.carousel{
+    height: 250px;
+    width: 70%;
+    margin-top: 150px;
+    margin-left: 15%;
+    position: relative;
+}
+
+.sliders {
+    height: 250px;
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 10px !important;
+    display: flex;
+    align-items: center;
+}
