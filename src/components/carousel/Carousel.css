@@ -6,9 +6,8 @@
 
 .carousel{
     height: 250px;
-    width: 70%;
     margin-top: 150px;
-    margin-left: 15%;
+    width: 60vw;
     position: relative;
 }
 
